@@ -22,9 +22,9 @@ Azure Synapse Analytics
 Power BI
 
 ## Process:
-i- Upload datasets to ADLS Gen2 container SOURCE.
-ii- Configure ADF data flow to combine and process data.
-iii- Set up Synapse SQL pool to sink/receive processed data.
-iv- Connect Synapse SQL pool to Power BI for visualization.
-v- Use DAX to clean data.
-vi- Visualised data using interactive charts and graphs.
+1) Upload datasets to ADLS Gen2 container SOURCE.
+2) Configure ADF data flow to combine and process data.
+3) Set up Synapse SQL pool to sink/receive processed data.
+4) Connect Synapse SQL pool to Power BI for visualization.
+5) Use DAX to clean data.
+6) Visualised data using interactive charts and graphs.
