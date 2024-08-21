@@ -16,10 +16,7 @@ Scripts and configurations for sinking transformed data into a Synapse SQL pool.
 Power BI report files demonstrating data visualization and analysis based on the processed data.
 
 ## Technologies Used:
-Azure Data Lake Storage (ADLS) Gen2
-Azure Data Factory (ADF)
-Azure Synapse Analytics
-Power BI
+Azure Data Lake Storage (ADLS) Gen2, Azure Data Factory (ADF), Azure Synapse Analytics, Power BI, DAX.
 
 ## Process:
 1) Upload datasets to ADLS Gen2 container SOURCE.
